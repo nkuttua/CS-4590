@@ -1,0 +1,8 @@
+FreeSound Source URL: (I used a different method of obtaining my wav file)
+
+
+
+--
+
+If you use a custom UGen (Unit Generator) for your exercise, describe it below:
+

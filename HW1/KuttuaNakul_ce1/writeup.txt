@@ -1,0 +1,9 @@
+FreeSound Source URL: https://freesound.org/people/studiobonk/sounds/648501/
+
+
+
+--
+
+If you use a custom UGen (Unit Generator) for your exercise, describe it below:
+
+I used a UGen described in class to modify the cutoff frequency. It is a vertical slider that affects the frequency at which the source sound is played. The range goes from 100Hz to 5000Hz

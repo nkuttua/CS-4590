@@ -1,0 +1,1 @@
+I followed the example from lecture but changed up the position of the buttons for a bigger screen. I also added a background image that is consistent with the music clip I have selected.

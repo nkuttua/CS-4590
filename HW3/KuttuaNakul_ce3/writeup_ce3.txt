@@ -1,0 +1,1 @@
+I followed the example from lecture and used a HP filter for the ducking of the background music. I struggled with a few things such as getting the method inside the endListener to work, but eventually I was able to find the source of the issue and fix it.
